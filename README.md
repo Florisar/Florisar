@@ -1,4 +1,4 @@
-                                                          🎯 Apprentissage ARM64 sur macOS
+                                                          🎯 Apprentissage Cobol
 
 # COBOL-Repro
 
