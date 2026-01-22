@@ -1,9 +1,23 @@
                                                           🎯 Apprentissage ARM64 sur macOS
 
--Bienvenue ! 👋
--Je suis en pleine exploration de l’architecture ARM64 sur macOS (Apple Silicon).
--Ce dépôt me sert de journal d’apprentissage, où je partage mes découvertes, tests, réussites… et erreurs aussi ! 😅
+# COBOL-Repro
 
--📘 Objectif : comprendre le fonctionnement, compiler, debugger, et tirer parti de l’architecture ARM64 dans un environnement macOS.
+Bienvenue sur mon dépôt **COBOL-Repro** !  
 
--Tout le contenu ici est en constante évolution — n'hésitez pas à suivre, commenter ou contribuer !
+Je découvre actuellement le langage **COBOL** et j'utilise ce dépôt pour **m’entraîner et expérimenter différents projets**.  
+Chaque projet dans ce dépôt correspond à un exercice ou une petite application que je réalise pour améliorer mes compétences.  
+
+L’objectif est de **me préparer à une future formation POEI en COBOL** et de montrer ma motivation à progresser dans ce domaine.  
+
+Ce dépôt est donc un **espace d’apprentissage personnel**, mais toutes les contributions et suggestions sont les bienvenues !
+
+---
+
+## Contenu
+
+- `ex01` – Mon premier projet COBOL
+
+
+---
+
+Merci de votre visite et bonne lecture !
