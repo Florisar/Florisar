@@ -26,3 +26,4 @@ Je dispose de temps, d’une forte envie d’apprendre, et d’une grande capaci
 Je suis ouvert aux opportunités de type POEI, formation ou montée en compétence progressive.
 Ce dépôt retrace mon évolution jour après jour, semaine après semaine, mois après mois, dans l’apprentissage de COBOL et des fondamentaux du développement orienté systèmes.
 N’hésitez pas à me contacter.
+email:gregorycharbonneau59@gmail.com
